@@ -1,0 +1,16 @@
+<svg id="Group_11718" data-name="Group 11718" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199.971" height="167.358" viewBox="0 0 199.971 167.358">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10556" data-name="Rectangle 10556" width="199.971" height="167.358" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11717" data-name="Group 11717" clip-path="url(#clip-path)">
+    <text id="REALESTATE" transform="translate(-0.001 159.611)" fill="#17193e" font-size="32" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="0" y="0">REALE</tspan><tspan y="0" letter-spacing="-0.02em">S</tspan><tspan y="0" letter-spacing="-0.081em">TA</tspan><tspan y="0">TE</tspan></text>
+    <path id="Path_4715" data-name="Path 4715" d="M207.138,261.355V207.727h0a9.177,9.177,0,0,0-9.174,9.177V263.1q4.509-.956,9.176-1.741" transform="translate(-149.236 -156.598)" fill="#17193e"/>
+    <path id="Path_4716" data-name="Path 4716" d="M283.308,183V107.12a11.6,11.6,0,0,0-10.794,11.561v65.466q5.328-.682,10.794-1.147" transform="translate(-205.438 -80.754)" fill="#17193e"/>
+    <path id="Path_4717" data-name="Path 4717" d="M376.5,101.314c1.537,0,3.068.023,4.6.051V0a14.3,14.3,0,0,0-14.3,14.3v87.2c3.217-.118,6.45-.19,9.7-.19" transform="translate(-276.512)" fill="#17193e"/>
+    <path id="Path_4718" data-name="Path 4718" d="M494.611,183.728V106.955a11.6,11.6,0,0,0-11.6,11.6v64.07q5.872.421,11.6,1.1" transform="translate(-364.122 -80.629)" fill="#17193e"/>
+    <path id="Path_4719" data-name="Path 4719" d="M586.464,263.1V207.727a9.176,9.176,0,0,0-9.175,9.177V261.36q4.66.786,9.175,1.743" transform="translate(-435.196 -156.598)" fill="#17193e"/>
+    <path id="Path_4720" data-name="Path 4720" d="M157.626,437.925c-31.432,0-59.977,5.6-81.167,14.718H238.792c-21.19-9.118-49.735-14.718-81.166-14.718" transform="translate(-57.64 -330.135)" fill="#17193e"/>
+  </g>
+</svg>

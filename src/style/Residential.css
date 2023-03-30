@@ -1,0 +1,12 @@
+.threebtn{
+   
+}
+
+.threebtn button{
+    border: 1px solid black;
+   margin: 7px;
+    width: 140px;
+    font-weight: bold;
+    border-radius: 40px;
+    padding: 16px;
+}

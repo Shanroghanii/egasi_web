@@ -1,0 +1,26 @@
+.ViewType{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ViewType img{
+    width: 500px;
+}
+
+.ViewType h6{
+   
+    font-size: 25px;
+}
+
+.ViewLcr{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.ViewLcr img{
+    width: 30px;
+    height: 20px;
+    margin-top: 10px;
+}
+

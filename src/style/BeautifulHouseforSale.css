@@ -1,0 +1,110 @@
+body{
+  background: #f2f2f2;
+}
+
+
+
+#createdBHFS {
+  width: 120px;
+  padding: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+  background-color: white;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  background: #f37521;
+  box-shadow: 0px 10px 10px #00000012;
+  border: 2px solid #f37521;
+  border-radius: 35px;
+  opacity: 1;
+  font-weight: bold;
+}
+
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 330px;
+  margin-top: 20px;
+  margin-inline: -1rem;
+}
+
+#customers td,
+#customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  width: 100px;
+}
+
+#customers tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+  background-color: #ddd;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  /* background-color: #04AA6D; */
+  color: white;
+}
+
+
+
+
+
+
+
+/* Tabs */
+
+h1{
+  text-align: center;
+}
+
+.c
+
+
+/* footer */
+svg.phone {
+  position: absolute;
+  margin-inline: 6rem;
+  margin-top: 14px;
+}
+
+
+
+
+
+.features{
+  width: 136px;
+  height: 130px;
+  background: transparent url('../images/white.svg');
+  margin-top: 20px;
+  border-radius: 17px;
+  opacity: 1;
+  margin-left: -15px;
+  position: relative;
+}
+
+.features img{
+  position: absolute;
+  left: 45px;
+  top: 20px;
+}
+.features p{
+  text-align: center;
+  letter-spacing: 0px;
+  padding-top: 90px;
+  padding-left: 10px;
+  color: #000000;
+  opacity: 0.8;
+}
+
+
+
+
+
+

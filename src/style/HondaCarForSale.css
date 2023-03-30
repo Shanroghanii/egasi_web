@@ -1,0 +1,248 @@
+.spanHs{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.slider{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.slider img{
+    width: 18%;
+}
+
+.parant-contact{
+    background: rosybrown;
+    height: 100%;
+}
+
+.child-contact{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child-contact img{
+    width: 50px;
+}
+
+.child-contact p{
+    font-size: 15px;
+}
+
+
+
+
+.contactInformation {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.contactInformation p {
+  font-size: 12px;
+  font-weight: bold;
+  margin-inline: 1rem;
+  margin-top: 10px;
+}
+
+.contactInformation img {
+  width: 50px;
+  height: 40px;
+  margin-top: 10px;
+  margin-inline: 1rem;
+}
+.span1{
+  margin-inline: 1rem;
+}
+.span2{
+  margin-inline: 1rem;
+
+}
+
+
+/*  */
+
+
+.my-card{
+display: flex;
+}
+.mycard{
+    display: flex;
+}
+
+.mycar {
+    display: flex;
+    width: 100%;
+   
+}
+.mycar img{
+    width: 640px;
+  
+}
+
+.lcr{
+    display: flex;
+    justify-content: space-between;
+    /* padding-bottom: 8px; */
+    padding-top: 10px;
+   
+   
+}
+
+.lcr img{
+    width: 15px;
+    height: 10px;
+}
+
+
+
+
+
+/* tabs */
+.box{
+    /* border: 2px solid gray; */
+   
+   
+    width: 100%;
+    margin: auto;
+   
+}
+
+.tabs{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.tab{
+    background:white;
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    /* border: 1px solid gray; */
+    border-top: none;
+    cursor: pointer;
+    position: relative;
+   
+}
+
+.active-tab{
+    border: none;
+    background:white;
+    width: 20px;
+    
+}
+
+.active-tab button{
+    background: orange;
+    /* width: 120px; */
+   
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    padding-top: 10px;
+}
+
+.active-tab::after{
+    /* border-top: 2px solid gray; */
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    /* background:initial;
+    animation: new 0.4s; */
+}
+
+/* @keyframes new{
+    from {
+        top: 50px;
+        left: 0;
+        right: 0;
+        background: gray;
+    }
+
+    to{
+        top: 0px;
+        left: 0;
+        right: 0;
+        border-top: 2px solid gray;
+    }
+} */
+.contents{
+    position: relative;
+}
+
+.content{
+    display: none;
+    position: relative;
+}
+
+.active-content{
+    display: flex;
+    /* margin-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    /* transition: all is ease-in-out;
+    animation: example 0.3s; */
+}
+
+
+/* @keyframes example{
+    from {
+         margin: 0;
+    }
+
+    to{
+        margin-left: 10px;
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+/* internal features */
+
+
+/* .features1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+} */
+
+
+.features2{
+    background: white;
+    padding: 10px;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+    margin: 7px;
+   
+
+}
+
+.features2 img{
+    width: 30px;
+    margin-top: 5px;
+    margin-inline:15px;
+}
+
+.features2 p{
+    padding-top: 5px;
+    font-size: 9px;
+   
+}

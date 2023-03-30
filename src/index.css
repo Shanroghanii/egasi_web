@@ -1,0 +1,22 @@
+/* tailwind.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom.css */
+
+.carousel img:not(:first-child) {
+  margin-left: -100vw;
+  animation: slide-in 1s infinite;
+  -webkit-animation: slide-in 1s infinite;
+}
+
+@keyframes slide-in {
+  0% {
+    margin-left: -100vw;
+  }
+  100% {
+    margin-left: 0;
+  }
+}
